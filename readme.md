@@ -24,7 +24,7 @@ Sitio web de una tienda ficticia de productos Apple, diseñado y maquetado desde
 ## 🚀 Deploy online
 
 Podés ver el sitio funcionando en GitHub Pages:  
-👉 [https://merlito2005.github.io/iphonearms](https://merlito2005.github.io/iphonearms) *(si lo configuraste)*
+👉 https://github.com/agusmerlo2005/IphoneArms.git
 
 ## 📝 Historial de cambios (commits)
 
@@ -34,3 +34,5 @@ Este repositorio contiene un historial detallado de los cambios realizados duran
 
 Este proyecto fue creado por **Merlito2005** como parte de una entrega académica.  
 ¡Gracias por visitar IphoneArms!
+
+<!-- Este Readme lo cree con inteligencia artificial por ser el primero -->
