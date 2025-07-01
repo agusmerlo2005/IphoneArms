@@ -1,0 +1,16 @@
+// Estilos para la página principal
+.hero {
+  background-color: $primary-color;
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+    margin-top: $spacing-unit;
+  }
+}

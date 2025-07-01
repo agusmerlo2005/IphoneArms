@@ -1,0 +1,21 @@
+// Header y navegación
+header {
+  background-color: $primary-color;
+  color: white;
+  padding: $spacing-unit;
+
+  nav {
+    @include flex-center;
+    justify-content: space-between;
+
+    a {
+      color: white;
+      text-decoration: none;
+      margin: 0 $spacing-unit / 2;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

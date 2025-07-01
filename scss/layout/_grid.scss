@@ -1,0 +1,17 @@
+// Grid básico
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -$spacing-unit / 2;
+}
+
+.col {
+  flex: 1;
+  padding: $spacing-unit / 2;
+}
